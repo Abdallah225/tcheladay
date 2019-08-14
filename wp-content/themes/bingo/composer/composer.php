@@ -1,0 +1,8 @@
+<?php
+//including ruby page composer
+$bingo_ruby_template_directory = get_template_directory();
+require_once $bingo_ruby_template_directory . '/composer/composer_setup.php';
+require_once $bingo_ruby_template_directory . '/composer/composer_config.php';
+require_once $bingo_ruby_template_directory . '/composer/composer_action.php';
+require_once $bingo_ruby_template_directory . '/composer/composer_render.php';
+require_once $bingo_ruby_template_directory . '/composer/composer_block.php';

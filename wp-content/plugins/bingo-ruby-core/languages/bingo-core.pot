@@ -1,0 +1,1093 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bingo Core\n"
+"POT-Creation-Date: 2017-12-21 15:26+0700\n"
+"PO-Revision-Date: 2017-07-16 09:08+0700\n"
+"Last-Translator: \n"
+"Language-Team: Theme-Ruby <themeruby@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _x;__;_e;_nx:1,2;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: lib\n"
+
+#: includes/shortcode.php:207
+msgid "Job Name"
+msgstr ""
+
+#: includes/shortcode.php:208
+msgid "Facebook"
+msgstr ""
+
+#: includes/shortcode.php:209
+msgid "Twitter"
+msgstr ""
+
+#: includes/shortcode.php:210
+msgid "Google Plus"
+msgstr ""
+
+#: includes/shortcode.php:211
+msgid "Pinterest"
+msgstr ""
+
+#: includes/shortcode.php:212
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/shortcode.php:213
+msgid "Tumblr"
+msgstr ""
+
+#: includes/shortcode.php:214
+msgid "Flickr"
+msgstr ""
+
+#: includes/shortcode.php:215
+msgid "Instagram"
+msgstr ""
+
+#: includes/shortcode.php:216
+msgid "Skype"
+msgstr ""
+
+#: includes/shortcode.php:217
+msgid "Snapchat"
+msgstr ""
+
+#: includes/shortcode.php:218
+msgid "Myspace"
+msgstr ""
+
+#: includes/shortcode.php:219 widgets/sb_widget_social_counter.php:115
+#: widgets/sb_widget_social_counter.php:117
+msgid "Youtube"
+msgstr ""
+
+#: includes/shortcode.php:220
+msgid "Bloglovin"
+msgstr ""
+
+#: includes/shortcode.php:221
+msgid "Digg"
+msgstr ""
+
+#: includes/shortcode.php:222
+msgid "Dribbble"
+msgstr ""
+
+#: includes/shortcode.php:223
+msgid "SoundCloud"
+msgstr ""
+
+#: includes/shortcode.php:224
+msgid "Vimeo"
+msgstr ""
+
+#: includes/shortcode.php:225
+msgid "Reddit"
+msgstr ""
+
+#: includes/shortcode.php:226
+msgid "VKontakte"
+msgstr ""
+
+#: includes/shortcode.php:227
+msgid "RSS"
+msgstr ""
+
+#: includes/social.php:235 includes/social.php:373
+msgid ""
+"I found this article interesting and thought of sharing it with you. Check "
+"it out:"
+msgstr ""
+
+#: includes/social.php:334
+msgid "share on Facebook"
+msgstr ""
+
+#: includes/social.php:338
+msgid "share on Twitter"
+msgstr ""
+
+#: includes/social.php:344
+msgid "share on Google+"
+msgstr ""
+
+#: includes/social.php:354
+msgid "share on Pinterest"
+msgstr ""
+
+#: includes/social.php:358
+msgid "share on LinkedIn"
+msgstr ""
+
+#: includes/social.php:362
+msgid "share on Tumblr"
+msgstr ""
+
+#: includes/social.php:365
+msgid "share on Reddit"
+msgstr ""
+
+#: includes/social.php:369
+msgid "share on VKontakte"
+msgstr ""
+
+#: includes/social.php:373
+msgid "share on Email"
+msgstr ""
+
+#: includes/social_media.php:57
+msgid "API error..."
+msgstr ""
+
+#: includes/social_media.php:71 widgets/sb_widget_flickr.php:64
+msgid "Configuration error or no pictures..."
+msgstr ""
+
+#: includes/social_media.php:82
+msgid "Empty instagram token..."
+msgstr ""
+
+#: includes/taxonomy-meta.php:133 includes/taxonomy-meta.php:182
+#: includes/taxonomy-meta.php:387 includes/taxonomy-meta.php:423
+msgid "Delete"
+msgstr ""
+
+#: includes/taxonomy-meta.php:142 includes/taxonomy-meta.php:394
+msgid "Select File"
+msgstr ""
+
+#: includes/taxonomy-meta.php:191 includes/taxonomy-meta.php:430
+msgid "Select Image"
+msgstr ""
+
+#: widgets/sb_widget_about.php:13
+msgid "[Sidebar Widget] Display short biography in sidebar sections"
+msgstr ""
+
+#: widgets/sb_widget_about.php:14
+msgid "[SIDEBAR] - About Me"
+msgstr ""
+
+#: widgets/sb_widget_about.php:85
+msgid "About me"
+msgstr ""
+
+#: widgets/sb_widget_about.php:95 widgets/sb_widget_ad.php:88
+#: widgets/sb_widget_comment.php:91 widgets/sb_widget_contact_info.php:174
+#: widgets/sb_widget_fb.php:76 widgets/sb_widget_flickr.php:108
+#: widgets/sb_widget_instagram.php:124 widgets/sb_widget_post.php:189
+#: widgets/sb_widget_social_counter.php:327 widgets/sb_widget_subscribe.php:101
+#: widgets/sb_widget_tweet.php:104 widgets/widget_instagram.php:115
+msgid "Title:"
+msgstr ""
+
+#: widgets/sb_widget_about.php:99
+msgid "About Image Url (optional):"
+msgstr ""
+
+#: widgets/sb_widget_about.php:103
+msgid "About title (Only display on about image):"
+msgstr ""
+
+#: widgets/sb_widget_about.php:107
+msgid "About subtitle:"
+msgstr ""
+
+#: widgets/sb_widget_about.php:111
+msgid "About text:"
+msgstr ""
+
+#: widgets/sb_widget_about.php:115
+msgid "Signature Image Url (optional):"
+msgstr ""
+
+#: widgets/sb_widget_about.php:119 widgets/sb_widget_ad.php:108
+#: widgets/sb_widget_comment.php:99 widgets/sb_widget_contact_info.php:222
+#: widgets/sb_widget_fb.php:84 widgets/sb_widget_flickr.php:133
+#: widgets/sb_widget_instagram.php:159 widgets/sb_widget_post.php:242
+#: widgets/sb_widget_social_counter.php:398
+#: widgets/sb_widget_social_icon.php:335 widgets/sb_widget_tweet.php:116
+#: widgets/sb_widget_video.php:82
+msgid "Title Text Color (hex value):"
+msgstr ""
+
+#: widgets/sb_widget_ad.php:13
+msgid ""
+"[Sidebar Widget] Display your custom ads, your banner JS or Google Adsense "
+"code, Support Google Ads Responsive"
+msgstr ""
+
+#: widgets/sb_widget_ad.php:14
+msgid "[SIDEBAR] - Advertisement Box"
+msgstr ""
+
+#: widgets/sb_widget_ad.php:81
+msgid "- Advertisement -"
+msgstr ""
+
+#: widgets/sb_widget_ad.php:92
+msgid "Ad Title:"
+msgstr ""
+
+#: widgets/sb_widget_ad.php:96
+msgid "Ads Link:"
+msgstr ""
+
+#: widgets/sb_widget_ad.php:100 widgets/sb_widget_quote.php:77
+msgid "Ads Image Url:"
+msgstr ""
+
+#: widgets/sb_widget_ad.php:104
+msgid "JS or Google AdSense Code:"
+msgstr ""
+
+#: widgets/sb_widget_ad.php:111
+msgid ""
+"Please note: remove custom ad image and ad url if you want to use javascript "
+"code."
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:13
+msgid "[Sidebar Widget] Display banners with background image."
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:14
+msgid "[SIDEBAR] - Banner Listing"
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:165
+msgid "Banner Title #1:"
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:169
+msgid "Banner Link #1:"
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:173
+msgid "Banner Image Url #1:"
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:178
+msgid "Banner Title #2:"
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:182
+msgid "Banner Link #2:"
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:186
+msgid "Banner Image Url #2:"
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:191
+msgid "Banner Title #3:"
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:195
+msgid "Banner Link #3:"
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:199
+msgid "Banner Image Url #3:"
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:203
+msgid "Banner Title #4:"
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:207
+msgid "Banner Link #4:"
+msgstr ""
+
+#: widgets/sb_widget_cat_banner.php:211
+msgid "Banner Image Url #4:"
+msgstr ""
+
+#: widgets/sb_widget_comment.php:15
+msgid "[Sidebar Widget] Display latest comments on the website."
+msgstr ""
+
+#: widgets/sb_widget_comment.php:16
+msgid "[SIDEBAR] - Recent Comments"
+msgstr ""
+
+#: widgets/sb_widget_comment.php:85
+msgid "latest comments"
+msgstr ""
+
+#: widgets/sb_widget_comment.php:95
+msgid "Number of \"Comments\" to show:"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:12
+msgid "[Sidebar Widget] Display Contact Info"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:13
+msgid "[SIDEBAR] - contact info"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:53 widgets/sb_widget_contact_info.php:183
+msgid "Address:"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:64 widgets/sb_widget_contact_info.php:188
+msgid "Phone:"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:75 widgets/sb_widget_contact_info.php:193
+msgid "Mobile:"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:86 widgets/sb_widget_contact_info.php:198
+msgid "Fax:"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:97 widgets/sb_widget_contact_info.php:203
+msgid "Email:"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:115
+msgid "Website:"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:157
+msgid "Contact Info"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:160
+msgid "123-456-789"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:163
+#: widgets/sb_widget_contact_info.php:164
+msgid "email@support.com"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:178
+msgid "Text:"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:208
+msgid "Email Link Text:"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:213
+msgid "Website URL:"
+msgstr ""
+
+#: widgets/sb_widget_contact_info.php:218
+msgid "Website URL Text:"
+msgstr ""
+
+#: widgets/sb_widget_fb.php:12
+msgid "[Sidebar Widget] Display Facebook Like box in sidebar sections"
+msgstr ""
+
+#: widgets/sb_widget_fb.php:13
+msgid "[SIDEBAR] - Facebook Like"
+msgstr ""
+
+#: widgets/sb_widget_fb.php:70
+msgid "Find us on Facebook"
+msgstr ""
+
+#: widgets/sb_widget_fb.php:80
+msgid "Fanpage Fb URL:"
+msgstr ""
+
+#: widgets/sb_widget_flickr.php:12
+msgid "[Sidebar Widget] Display Flickr image grid in sidebar section"
+msgstr ""
+
+#: widgets/sb_widget_flickr.php:13
+msgid "[SIDEBAR] - Flickr Grid"
+msgstr ""
+
+#: widgets/sb_widget_flickr.php:71
+msgid "View stream on flickr"
+msgstr ""
+
+#: widgets/sb_widget_flickr.php:100
+msgid "gallery"
+msgstr ""
+
+#: widgets/sb_widget_flickr.php:112
+msgid "Flickr User ID:"
+msgstr ""
+
+#: widgets/sb_widget_flickr.php:115
+msgid "Get Flickr Id"
+msgstr ""
+
+#: widgets/sb_widget_flickr.php:117 widgets/sb_widget_instagram.php:134
+#: widgets/widget_instagram.php:123
+msgid "Limit Image Number:"
+msgstr ""
+
+#: widgets/sb_widget_flickr.php:121 widgets/sb_widget_post.php:216
+msgid "Tags (optional, Separate tags with comma. e.g. tag1,tag2):"
+msgstr ""
+
+#: widgets/sb_widget_flickr.php:125 widgets/sb_widget_instagram.php:142
+#: widgets/widget_instagram.php:131
+msgid "Number of Columns:"
+msgstr ""
+
+#: widgets/sb_widget_flickr.php:127 widgets/sb_widget_instagram.php:144
+msgid "2 columns"
+msgstr ""
+
+#: widgets/sb_widget_flickr.php:128 widgets/sb_widget_instagram.php:145
+msgid "3 columns"
+msgstr ""
+
+#: widgets/sb_widget_flickr.php:129 widgets/sb_widget_instagram.php:146
+#: widgets/widget_instagram.php:133
+msgid "4 columns"
+msgstr ""
+
+#: widgets/sb_widget_instagram.php:18
+msgid "[Sidebar Widget] Display Instagram Image grid in sidebar sections"
+msgstr ""
+
+#: widgets/sb_widget_instagram.php:19
+msgid "[SIDEBAR] - Instagram Grid"
+msgstr ""
+
+#: widgets/sb_widget_instagram.php:109
+msgid "instagram grid"
+msgstr ""
+
+#: widgets/sb_widget_instagram.php:122 widgets/sb_widget_social_counter.php:353
+#: widgets/widget_instagram.php:113
+msgid ""
+"How to Create an app and generate your Instagram access token on: <a target="
+"\"_blank\" href=\"http://instagram.rubyThemes.com/\">Instagram access token "
+"tutorial</a> website</p>"
+msgstr ""
+
+#: widgets/sb_widget_instagram.php:129 widgets/widget_instagram.php:119
+msgid "Instagram Access Token:"
+msgstr ""
+
+#: widgets/sb_widget_instagram.php:138 widgets/widget_instagram.php:127
+msgid "Display Image With Tag:"
+msgstr ""
+
+#: widgets/sb_widget_instagram.php:138 widgets/widget_instagram.php:127
+msgid " (Leave blank if you want display your images)"
+msgstr ""
+
+#: widgets/sb_widget_instagram.php:150
+msgid "Bottom Text:"
+msgstr ""
+
+#: widgets/sb_widget_instagram.php:155 widgets/widget_instagram.php:150
+msgid "Popup When Click:"
+msgstr ""
+
+#: widgets/sb_widget_post.php:13
+msgid "[Sidebar Widget] Display posts with custom query in sidebar section"
+msgstr ""
+
+#: widgets/sb_widget_post.php:14
+msgid "[SIDEBAR] - Posts widget"
+msgstr ""
+
+#: widgets/sb_widget_post.php:176
+msgid "latest posts"
+msgstr ""
+
+#: widgets/sb_widget_post.php:193 widgets/sb_widget_social_counter.php:331
+msgid "Style:"
+msgstr ""
+
+#: widgets/sb_widget_post.php:195 widgets/sb_widget_social_counter.php:333
+msgid "Style 1"
+msgstr ""
+
+#: widgets/sb_widget_post.php:196 widgets/sb_widget_social_counter.php:334
+msgid "Style 2"
+msgstr ""
+
+#: widgets/sb_widget_post.php:197
+msgid "Style 3"
+msgstr ""
+
+#: widgets/sb_widget_post.php:198
+msgid "Style 4"
+msgstr ""
+
+#: widgets/sb_widget_post.php:199
+msgid "Style 5"
+msgstr ""
+
+#: widgets/sb_widget_post.php:200
+msgid "Style 6"
+msgstr ""
+
+#: widgets/sb_widget_post.php:201
+msgid "Style 7"
+msgstr ""
+
+#: widgets/sb_widget_post.php:205
+msgid "Category Filter:"
+msgstr ""
+
+#: widgets/sb_widget_post.php:207
+msgid "All Categories"
+msgstr ""
+
+#: widgets/sb_widget_post.php:212
+msgid ""
+"Multiple Category Filter (optional, Input category ids, Separate category "
+"ids with comma. e.g. 1,2):"
+msgstr ""
+
+#: widgets/sb_widget_post.php:220
+msgid "Limit Post Number (optional, default is 4):"
+msgstr ""
+
+#: widgets/sb_widget_post.php:224
+msgid "Post Offset (optional, default is 0):"
+msgstr ""
+
+#: widgets/sb_widget_post.php:228
+msgid "Order By:"
+msgstr ""
+
+#: widgets/sb_widget_post.php:230
+msgid "Latest Post"
+msgstr ""
+
+#: widgets/sb_widget_post.php:231 widgets/sb_widget_tabs.php:116
+msgid "Popular Post by Comments"
+msgstr ""
+
+#: widgets/sb_widget_post.php:232 widgets/sb_widget_tabs.php:117
+msgid "Popular Post by Views"
+msgstr ""
+
+#: widgets/sb_widget_post.php:233 widgets/sb_widget_tabs.php:118
+msgid "Best Review"
+msgstr ""
+
+#: widgets/sb_widget_post.php:234 widgets/sb_widget_tabs.php:119
+msgid "Post Type"
+msgstr ""
+
+#: widgets/sb_widget_post.php:235 widgets/sb_widget_tabs.php:120
+msgid "Random Post"
+msgstr ""
+
+#: widgets/sb_widget_post.php:236 widgets/sb_widget_tabs.php:121
+msgid "Author"
+msgstr ""
+
+#: widgets/sb_widget_post.php:237 widgets/sb_widget_tabs.php:122
+msgid "alphabetical A->Z Posts"
+msgstr ""
+
+#: widgets/sb_widget_post.php:238 widgets/sb_widget_tabs.php:123
+msgid "alphabetical Z->A Posts"
+msgstr ""
+
+#: widgets/sb_widget_quote.php:15
+msgid "Show quote text"
+msgstr ""
+
+#: widgets/sb_widget_quote.php:16
+msgid "[SIDEBAR] - Quote Text*"
+msgstr ""
+
+#: widgets/sb_widget_quote.php:82
+msgid "Quote text:"
+msgstr ""
+
+#: widgets/sb_widget_quote.php:87
+msgid "Show Social When Click:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:13
+msgid "[Sidebar Widget] Display number of social followers in sidebar sections"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:15
+msgid "[SIDEBAR] - Social Counter"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:64
+msgid "fans"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:67
+#: widgets/sb_widget_social_counter.php:195
+msgid "like"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:82
+#: widgets/sb_widget_social_counter.php:99
+msgid "followers"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:85
+#: widgets/sb_widget_social_counter.php:150
+#: widgets/sb_widget_social_counter.php:176
+#: widgets/sb_widget_social_counter.php:214
+#: widgets/sb_widget_social_counter.php:252
+msgid "follow"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:102
+msgid "pin"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:122
+msgid "Subscribers"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:125
+msgid "subscribe"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:147
+#: widgets/sb_widget_social_counter.php:173
+#: widgets/sb_widget_social_counter.php:211
+#: widgets/sb_widget_social_counter.php:249
+msgid "Followers"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:169
+msgid "soundclound"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:192
+msgid "Likes"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:207
+msgid "dribbble"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:230
+msgid "Members"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:233
+msgid "Member"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:245
+msgid "google"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:306
+msgid "stay connected"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:338
+msgid "Facebook Page Name:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:342 widgets/sb_widget_tweet.php:108
+msgid "Twitter Name:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:346
+msgid "Pinterest User Name:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:350
+msgid "Instagram Access Token Key:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:355
+msgid "Youtube User Name:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:359
+msgid "Youtube Channel ID:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:362
+msgid ""
+"Use channel ID if you can not enough subscriber to create username for "
+"channel. Make sure leave blank user name when input channel ID."
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:364
+msgid "SoundCloud User Name:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:368
+msgid "Soundcloud API Key(Client ID) :"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:371
+msgid "Generate your soundcloud app"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:373
+msgid "Vimeo User Name:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:377
+msgid "Dribbble User Name:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:381
+msgid "Dribbble Token (Client Access Token):"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:384
+msgid "Generate your dribbble app"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:386
+msgid "VK User Name/ID:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:390
+msgid "Goolge+ ID:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:394
+msgid "Google API Key:"
+msgstr ""
+
+#: widgets/sb_widget_social_counter.php:401
+msgid "Google API Key, Click Here For More Details."
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:15
+msgid "[Sidebar Widget] Display social icon in sidebar sections"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:16
+msgid "[SIDEBAR] - Social Bar Icon"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:201
+msgid "find us on socials"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:231
+msgid "Title :"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:235
+msgid "Select default theme option or custom show icon social:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:237
+msgid "Theme Option"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:238
+msgid "Use Custom"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:241
+msgid ""
+"To set theme option for social link, Please go to: <strong>BINGO OPTIONS -> "
+"Share & Socials -> Site Social Profiles</strong>"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:243
+msgid "Facebook Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:247
+msgid "Twitter Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:251
+msgid "Googleplus Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:255
+msgid "Pinterest Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:259
+msgid "LinkedIn Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:263
+msgid "Tumblr Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:267
+msgid "Flickr Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:271
+msgid "Instagram Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:275
+msgid "Skype Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:279
+msgid "Snapchat Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:283
+msgid "Myspace Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:287
+msgid "Youtube Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:291
+msgid "Bloglovin Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:295
+msgid "Digg Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:299
+msgid "Dribbble Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:303
+msgid "Soundcloud Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:307
+msgid "Vimeo Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:311
+msgid "Reddit Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:315
+msgid "Whatsapp Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:319
+msgid "Vkontakte Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:323
+msgid "RSS Url:"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:327
+msgid "Open in new tab"
+msgstr ""
+
+#: widgets/sb_widget_social_icon.php:331
+msgid "Enable icon color"
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:16
+msgid ""
+"[Sidebar Widget] Display subscribe form, support MailChimp for WP plugin."
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:18
+msgid "[SIDEBAR] - Subscribe Box"
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:90
+msgid "Subscribe Newsletter"
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:92
+msgid "Get all latest content delivered straight to your inbox."
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:105
+msgid "Select Text Color For Subscribe Form:"
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:107
+msgid "Dark Text"
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:108
+msgid "Light Text"
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:113
+msgid "Mail text:"
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:118
+msgid "Subscribe shortcode:"
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:123
+msgid "Custom CSS Background Color:"
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:128
+msgid "Enable Border For Subscribe:"
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:133
+msgid "Show Icon Mail:"
+msgstr ""
+
+#: widgets/sb_widget_subscribe.php:138
+msgid "Display Big Subscribe In Top Footer Full-width Section:"
+msgstr ""
+
+#: widgets/sb_widget_tabs.php:15
+msgid ""
+"[Sidebar Widget] Display a tabbed content widget for your popular posts, "
+"recent posts and comments."
+msgstr ""
+
+#: widgets/sb_widget_tabs.php:16
+msgid "[SIDEBAR] - Tabs widget"
+msgstr ""
+
+#: widgets/sb_widget_tabs.php:46
+msgid "Popular"
+msgstr ""
+
+#: widgets/sb_widget_tabs.php:56
+msgid "Recent"
+msgstr ""
+
+#: widgets/sb_widget_tabs.php:110
+msgid "Title Post Popular:"
+msgstr ""
+
+#: widgets/sb_widget_tabs.php:114
+msgid "Order By of \"Popular\":"
+msgstr ""
+
+#: widgets/sb_widget_tabs.php:127
+msgid "Number of \"Popular\" posts to show:"
+msgstr ""
+
+#: widgets/sb_widget_tabs.php:131
+msgid "Title Post Recent:"
+msgstr ""
+
+#: widgets/sb_widget_tabs.php:135
+msgid "Number of \"Recent\" posts to show:"
+msgstr ""
+
+#: widgets/sb_widget_tweet.php:15
+msgid ""
+"[Sidebar Widget] Display latest tweets in sidebar. This widget need to "
+"install oAuth Twitter Feed for Developers plugin"
+msgstr ""
+
+#: widgets/sb_widget_tweet.php:16
+msgid "[SIDEBAR] - Twitter tweets"
+msgstr ""
+
+#: widgets/sb_widget_tweet.php:53
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: widgets/sb_widget_tweet.php:69
+msgid "Please install plugin name \"oAuth Twitter Feed for Developers"
+msgstr ""
+
+#: widgets/sb_widget_tweet.php:95
+msgid "Latest Tweets"
+msgstr ""
+
+#: widgets/sb_widget_tweet.php:112
+msgid "Number of Tweets:"
+msgstr ""
+
+#: widgets/sb_widget_tweet.php:119
+msgid "Create your Twitter App"
+msgstr ""
+
+#: widgets/sb_widget_tweet.php:119
+msgid "and install"
+msgstr ""
+
+#: widgets/sb_widget_tweet.php:119
+msgid "\"oAuth Twitter Feed for Developers\" Plugin"
+msgstr ""
+
+#: widgets/sb_widget_video.php:13
+msgid "[Sidebar Widget] Displays a video of your choosing."
+msgstr ""
+
+#: widgets/sb_widget_video.php:14
+msgid "[SIDEBAR] - Video Widget"
+msgstr ""
+
+#: widgets/sb_widget_video.php:74
+msgid "Title"
+msgstr ""
+
+#: widgets/sb_widget_video.php:78
+msgid "Embed code or self host video url:"
+msgstr ""
+
+#: widgets/widget_instagram.php:16
+msgid "[Top Footer Widget] Display Instagram image gird in top footer section"
+msgstr ""
+
+#: widgets/widget_instagram.php:17
+msgid "[TOP FOOTER] - Instagram Grid*"
+msgstr ""
+
+#: widgets/widget_instagram.php:102
+msgid "Follow @ Instagram"
+msgstr ""
+
+#: widgets/widget_instagram.php:134
+msgid "5 columns"
+msgstr ""
+
+#: widgets/widget_instagram.php:135
+msgid "6 columns"
+msgstr ""
+
+#: widgets/widget_instagram.php:136
+msgid "7 columns"
+msgstr ""
+
+#: widgets/widget_instagram.php:137
+msgid "8 columns"
+msgstr ""
+
+#: widgets/widget_instagram.php:138
+msgid "9 columns"
+msgstr ""
+
+#: widgets/widget_instagram.php:139
+msgid "10 columns"
+msgstr ""
+
+#: widgets/widget_instagram.php:143
+msgid "Width of Grid:"
+msgstr ""
+
+#: widgets/widget_instagram.php:145
+msgid "Full Width"
+msgstr ""
+
+#: widgets/widget_instagram.php:146
+msgid "Has Wrapper"
+msgstr ""
